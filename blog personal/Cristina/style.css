@@ -9,6 +9,7 @@ body {
 h1 {
     margin: 0 0 0 8px;
     padding-top: 8px;
+    font-size: 20px;
 }
 
 .bar {
@@ -24,6 +25,7 @@ h1 {
 
 h2{
     margin: 0 0 0 20px;
+    font-size: 20px;
 }
 
 ul {
