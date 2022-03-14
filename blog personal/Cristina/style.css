@@ -23,10 +23,22 @@ h1 {
 }
 
 h2{
-    margin: 0 0 0 10px;
+    margin: 0 0 0 20px;
 }
 
 ul {
     margin: 0 0 0 10px;
     list-style: none;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+.elemento-1 {
+    margin: 0 0 0 -40px;
+}
+
+.elemento-2 {
+    margin: 0 0 0 -20px;
 }
